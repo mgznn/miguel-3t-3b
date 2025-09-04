@@ -23,7 +23,7 @@ async function empregos() {
       plot_bgcolor: getCSS('--bg-color'),
       paper_bgcolor: getCSS('--bg-color'),
       title: {
-        text: 'Tipos de Ocupações (Trabalhos) pelo Mundo',
+        text: 'Torcidas Brasileiras',
         font:{
             color: getCSS('--secundary-color'),
             family: getCSS('--font'),
